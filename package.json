@@ -1,0 +1,10 @@
+{
+	"name": "openscad-build-manager",
+	"version": "1.0.0",
+	"description": "Build manager for OpenSCAD projects",
+	"main": "bezier.scad",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jramey88/openscad-bezier-lib"
+	}
+}
