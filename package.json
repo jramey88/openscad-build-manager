@@ -6,5 +6,8 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/jramey88/openscad-bezier-lib"
+	},
+	"bin": {
+		"openscad-build-manager": "./build.js"
 	}
 }
