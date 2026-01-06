@@ -1,0 +1,10 @@
+{
+    "source": "project.scad",
+    "parts": [
+        "part_1",
+        "part_2"
+    ],
+    "stl_prefix": "",
+    "max_threads": 10,
+    "render_dir": "renders"
+}
