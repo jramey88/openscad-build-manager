@@ -22,7 +22,11 @@ The OpenSCAD source should accept a variable called *render_model_name*. If this
 
 ## Building a project
 
-Install *node.js* and *npm*. Generate all of the STLs for the project:
+Install *node.js* and *npm*. Copy *build-usage.js* from this module into the root of your project and add this line to the *scripts* section of your *package.json*:
+
+    "build": "node build.js"
+
+Generate all of the STLs for the project:
 
     npm run build
 
